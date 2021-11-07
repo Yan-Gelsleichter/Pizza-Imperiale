@@ -17,7 +17,7 @@
 
 
 ## 💻 Projeto
-Desenvolvido com o intuito de ser uma página responsiva no formato One Page e servir para a criação de outros websites. Projeto inspirado em BeuatSalon.
+Desenvolvido com o intuito de ser uma página responsiva no formato One Page e servir para a criação de outras webpages. Projeto inspirado em BeuatSalon.
 
 ## :rocket: ​Tecnologias
 
