@@ -41,4 +41,4 @@ Utilitários:
 ## 🔖 Layout
 
 Pizza Imperiale é um WebSite comercial com tema voltado para pizzarias.
-Você pode visualizar o layout do projeto através desse link https://yan-gelsleichter.github.io/pizzaimperiale/
+Você pode visualizar o layout do projeto através desse link https://yan-gelsleichter.github.io/Pizza-Imperiale/
