@@ -2,7 +2,7 @@
   Pizza Imperiale
 </h2>
 <h3 align="center">
-  Tema de web site desenvolvido para pizzarias
+  Tema de webpage desenvolvido para pizzarias
 </h3>
 
 <br>
@@ -40,5 +40,5 @@ Utilitários:
 
 ## 🔖 Layout
 
-Pizza Imperiale é um WebSite comercial com tema voltado para pizzarias.
+Pizza Imperiale é uma Webpage comercial com tema voltado para pizzarias.
 Você pode visualizar o layout do projeto através desse link https://yan-gelsleichter.github.io/Pizza-Imperiale/
